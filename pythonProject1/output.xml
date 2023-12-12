@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.0 on win32)" generated="20231121 16:10:32.861" rpa="false" schemaversion="4">
+<suite id="s1" name="TC1" source="C:\Users\User\PycharmProjects\pythonProject1\TestCases\TC1.robot">
+<test id="s1-t1" name="Demotest" line="6">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>http://www.google.com</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20231121 16:10:33.058" level="INFO">Opening browser 'chrome' to base url 'http://www.google.com'.</msg>
+<status status="PASS" starttime="20231121 16:10:33.058" endtime="20231121 16:10:36.445"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20231121 16:10:36.445" endtime="20231121 16:10:38.567"/>
+</kw>
+<status status="PASS" starttime="20231121 16:10:33.058" endtime="20231121 16:10:38.567"/>
+</test>
+<doc>Simple example using SeleniumLibrary.</doc>
+<status status="PASS" starttime="20231121 16:10:32.861" endtime="20231121 16:10:38.567"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC1">TC1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

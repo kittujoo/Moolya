@@ -1,0 +1,4 @@
+pytest .\python_pytest\
+pytest .\python_pytest\  -vs
+pytest .\python_pytest\ -k regression -vs
+pytest .\python_pytest\ -k smoke -vs

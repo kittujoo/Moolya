@@ -1,0 +1,11 @@
+2023-12-01 16:09:16,342 - INFO - Running test: test_1
+2023-12-01 16:09:16,343 - INFO - Test test_1 completed.
+2023-12-01 16:09:16,346 - INFO - Running test: test_2
+2023-12-01 16:09:16,346 - INFO - Test test_2 completed.
+2023-12-01 16:09:16,348 - INFO - Running test: test_3
+2023-12-01 16:09:16,348 - INFO - Test test_3 completed.
+2023-12-01 16:10:16,689 - INFO - Running test: test_1
+2023-12-01 16:10:16,728 - INFO - Running test: test_2
+2023-12-01 16:10:16,729 - INFO - Test test_2 completed.
+2023-12-01 16:10:16,730 - INFO - Running test: test_3
+2023-12-01 16:10:16,731 - INFO - Test test_3 completed.
